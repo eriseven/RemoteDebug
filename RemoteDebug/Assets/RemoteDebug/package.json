@@ -1,0 +1,7 @@
+{
+    "name": "com.Josef212.RemoteDebug",
+    "displayName": "RemoteDebug",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "This is a remote console."
+}
